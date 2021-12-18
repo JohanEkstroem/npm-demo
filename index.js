@@ -6,3 +6,5 @@ function showMessage() {
 }
 
 showMessage();
+
+console.log('testing testing testing');
