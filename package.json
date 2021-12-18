@@ -18,5 +18,8 @@
   "homepage": "https://github.com/JohanEkstroem/npm-demo#readme",
   "devDependencies": {
     "eslint": "^8.5.0"
+  },
+  "dependencies": {
+    "sass": "^1.45.0"
   }
 }
